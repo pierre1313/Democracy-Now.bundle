@@ -1,6 +1,3 @@
-from PMS import *
-from PMS.Objects import *
-from PMS.Shortcuts import *
 
 DN_PREFIX    = '/video/democracynow'
 DN_RSS_FEED  = 'http://www.democracynow.org/podcast-video.xml'
